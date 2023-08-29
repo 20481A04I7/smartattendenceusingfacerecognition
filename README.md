@@ -1,2 +1,0 @@
-# smartattendenceusingfacerecognition
- smart attendence
